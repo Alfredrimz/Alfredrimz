@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alfredrimz
 - 👀 I’m interested in Nuclear Resonance Fluorescence Spectroscopy
-- 🌱 I’m currently learning Dectection of illict Substance
+- 🌱 I’m currently learning Dectection of illict Substance using nuclear resonance fluorescence
 - 💞️ I’m looking to collaborate on Geant4 NRF
 - 📫 How to reach me alfredemmanuel@rocketmail.com
 
